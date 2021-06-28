@@ -1,0 +1,41 @@
+html {
+    height: 100%;
+}
+  
+footer {
+    text-align: justify;
+    height: 6em;
+    padding: 1em 5%;
+    background: #253528;
+    color: #fff;
+    position:absolute;
+    bottom: 0;
+    width: 90%;
+}
+
+
+footer h2 {
+    text-align: center;
+}
+
+footer div {
+    text-align: center;
+    padding-top: 1.6rem;
+    padding-left: 3rem;
+}
+
+footer div p, a {
+    display: inline;
+    padding: 0px 100px 0px 0px;  
+}
+
+footer div a {
+    text-decoration: none;
+    color: white;
+}
+
+footer div a:hover {
+    color: yellow;
+}
+
+

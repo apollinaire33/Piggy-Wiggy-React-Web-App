@@ -1,0 +1,85 @@
+
+/* listing */
+main {
+    padding-bottom: 50px;
+    padding-left: 1.5rem;
+}
+
+main article img {
+    width: 310px; 
+    height: 240px;
+    border-radius: 50px;
+}
+
+/* view */
+
+/* table */
+.table-view { 
+    width:355px; 
+    height:300px; 
+    display: inline-block;
+    margin: 0 15px 10px 0; 
+    text-align:center;
+    margin-top: 1rem;
+    border-radius: 25px;
+}
+
+/* list */
+.list-view {
+    width:auto; 
+    height:300px; 
+    margin: 0 15px 10px 0; 
+    text-align:start;
+    margin-top: 1rem;
+    border-radius: 25px;
+}
+
+.list-h1 {
+    color: black;
+    font-family: 'Consolas';
+    margin-left: 370px;
+    padding-bottom: 1rem;
+    font-size: 2rem;
+    white-space: nowrap
+}
+
+.list-h2 {
+    color: black;
+    font-family: 'Consolas';
+    margin-left: 400px;
+    margin-top: 0.6rem;
+}
+
+.list-img {
+    width: 350px; 
+    height: 280px;
+    border-radius: 50px;
+    float: left;
+}
+
+/* icons */
+.icons {
+    width: auto;
+    display: inline-flex;
+    margin-top: 1rem;
+    margin-left: 37%;
+}
+
+.table-icon {
+    color: white;
+    padding-left: 1rem;
+}
+
+.table-icon:hover {
+    color: yellow;
+}
+
+.list-icon {
+    color: white;
+    padding-left: 1rem;
+
+}
+
+.list-icon:hover {
+    color: yellow;
+}

@@ -1,0 +1,8 @@
+[
+    { "id": 1, "title": "СОННЫЙ ХРЯК", "image": "https://img-fotki.yandex.ru/get/64085/127908635.fe3/0_1901c8_8463c62c_orig.jpg", "category": "hryak" },
+    { "id": 2, "title": "МАЛЮТКА", "image": "https://fakty.ua/photos2/article/32/98/329895.jpg", "category": "svinka" },
+    { "id": 3, "title": "КАБАНИХА", "image": "https://agroanimal.ru/wp-content/uploads/2016/03/svinya-spit1.jpg", "category": "kaban" },
+    { "id": 4, "title": "ОРДА", "image": "https://gusiyabloni.com/wp-content/uploads/2017/10/Svinomatka-s-porosyatami-1-1100x733.jpg", "category": "borov" },
+    { "id": 5, "title": "КАВО", "image": "https://hozyajskijhutor.ru/wp-content/uploads/2017/03/sluchka-svinej-polovaya-ohota.jpg", "category": "borov" },
+    { "id": 6, "title": "СЮДАААА", "image": "https://avatars.mds.yandex.net/get-zen_doc/1708669/pub_5d650f2a9f272100ac7d59d8_5d6510427cccba00ae9d9393/scale_1200", "category": "svinka" }
+]
